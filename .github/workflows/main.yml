@@ -7,7 +7,7 @@ name: CI
 on:
   push: 
   schedule: 
-      - cron: '08 17,05 * * *'
+      - cron: '15 17,05 * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
